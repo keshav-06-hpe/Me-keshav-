@@ -1,7 +1,7 @@
 
 <!-- Greeting -->
 # Hey there! :wave:
-- 👋 Hi, I’m @keshav-06
+- 👋 Hi, I’m @keshav-06-hpe
 - 👀 I’m interested in Problem Solving, Artificial Intelligence and Machine Learning
 - 🌱 I’m currently doing B. Tech. in Computer Science and Engineering
 <!--Introduction -->
@@ -12,11 +12,11 @@ Greetings, I'm Keshav, and my mission is to tackle real-world challenges. I poss
 <!-- Your badges -->
 
 [![Linkedin](https://img.shields.io/badge/-Keshav062-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/keshav062)
-[![Gmail](https://img.shields.io/badge/-keshav062-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:k.varshney062@gmail.com)
+[![Gmail](https://img.shields.io/badge/-keshav062-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:keshav.varshney@hpe.com)
 [![Telegram](https://img.shields.io/badge/-@keshav062-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/keshav062)
 
 [![HackerRank](https://img.shields.io/badge/-Keshav-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/k_varshney062)
-[![Instagram](https://img.shields.io/badge/-great_kv-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/great_kv)
+
 
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=keshav-06&style=flat)
@@ -25,14 +25,12 @@ Greetings, I'm Keshav, and my mission is to tackle real-world challenges. I poss
 
 <!-- current status -->
 ### Things that I'm currently working on: 
-* Data Structures and Algorithms 
-* Back-end Development (node.js)
-* Some Personal Projects 
 * Kubernetes
+* istio
+* Devops
+* AI/ML
 
    <!-- gif Image -->
-<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
-
 <!---
 keshav-06/keshav-06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
