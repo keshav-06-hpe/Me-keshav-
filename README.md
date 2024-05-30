@@ -3,9 +3,9 @@
 # Hey there! :wave:
 - 👋 Hi, I’m @keshav-06-hpe
 - 👀 I’m interested in Problem Solving, Artificial Intelligence and Machine Learning
-- 🌱 I’m currently doing B. Tech. in Computer Science and Engineering
+- 🌱 I’m currently doing B. Tech. in Computer Science and Engineering and interinig at Hewlett Packard Enterprise.
 <!--Introduction -->
-Greetings, I'm Keshav, and my mission is to tackle real-world challenges. I possess a deep passion for enhancing open-source accessibility, developing software and tools to assist individuals, and fostering a vibrant community. If you discover my project intriguing, I kindly request that you consider starring:star2: my repository. Even a single star has the potential to brighten someone's day and demonstrate appreciation for the work put in. Your support would be invaluable. Thank you! :pray:
+Greetings, I'm Keshav, and my mission is to tackle real-world challenges. I possess a deep passion for enhancing open-source accessibility, developing software and tools to assist individuals, and fostering a vibrant community. If you discover my project intriguing, I kindly request that you consider starring :star2: my repository. Even a single star has the potential to brighten someone's day and demonstrate appreciation for the work put in. Your support would be invaluable. Thank you! :pray:
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I'm thrilled to meet new people and look forward to engaging in meaningful conversations with you!<br><b>Hi, I'll be happy to meet you more!</b> :blush:</em>
 
