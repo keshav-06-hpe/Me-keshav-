@@ -19,8 +19,8 @@ Greetings, I'm Keshav, and my mission is to tackle real-world challenges. I poss
 
 
 <!-- Profile View Count and GitStats -->
-![](https://komarev.com/ghpvc/?username=keshav-06&style=flat)
-[![Github](https://img.shields.io/badge/-Keshav-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/keshav-06)
+![](https://komarev.com/ghpvc/?username=keshav-06-hpe&style=flat)
+[![Github](https://img.shields.io/badge/-Keshav-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/keshav-06-hpe)
 
 
 <!-- current status -->
